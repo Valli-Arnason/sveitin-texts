@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  background: #f9f9f9;
+  color: #111;
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+  div[style*='position: relative'] {
+    height: 200px !important;
+  }
+
+  h1 {
+    font-size: 1.8rem !important;
+  }
+}
