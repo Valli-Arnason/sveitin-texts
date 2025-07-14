@@ -264,11 +264,6 @@ Allir skyldu hann en hváðu þó.
 Þeim var ljóst hann þekkti' ei nóg
 af þessum heimi, diggy liggy ló.
 
-Daggperlur glitra um dalinn færist ró,
-draumar þess rætast sem gistir Vaglaskóg.
-Kveldrauðu skini á krækilyngið slær.
-Kyrrðin er friðandi, mild og angurvær.
-
 Allir vita'að ástand hér
 ekki neitt til sóma er 
 Orðin týnast ótt af því
