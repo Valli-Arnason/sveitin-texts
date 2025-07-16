@@ -173,6 +173,66 @@ Og svo leiðumst við syngjandi saman,
 
 {
     id: 'song5',
+    title: 'Litla flugan',
+    artist: '',
+    lyrics: `Lækur tifar létt um máða steina.
+Lítil fjóla grær við skriðufót
+Bláskel liggur brotin milli hleina.
+Í bænum hvílir íturvaxin snót.    
+
+Ef ég væri orðinn lítil fluga,
+Ég inn um gluggann þreytti flugið mitt,                           	
+og þó ég ei til annars mætti duga,
+ég  eflaust gæti kitlað nefið þitt     	 
+ég eflaust gæti kitlað nefið þitt.`,
+  },
+
+  {
+    id: 'song6',
+    title: 'Blátt lítið blóm eitt er',
+    artist: '',
+    lyrics: `Blátt lítið blóm eitt er,
+ber nafnið; gleymd ei mér.
+Væri ég fleygur fugl,
+flygi ég til þín.
+
+Svo mína sálu nú
+sigraða hefur þú,
+engu ég unna má
+öðru en þér.
+
+Leggjum svo kinn við kinn,
+komdu með faðminn þinn.
+Hátt yfir hálsinn minn,
+hönd þína breið.
+Svo mína sálu nú
+sigraða hefur þú,
+engu ég unna má
+öðru en þér.`,
+  },
+
+  {
+    id: 'song7',
+    title: 'Bæjarvísur (eftir laginu Yfir kaldan eyðisand)',
+    artist: '',
+    lyrics: `Gröf og Ásar glöggt ég les,
+glaður sést þar halur,
+Hemra, Flaga, Hrífunes,
+Hlíð og Svínadalur.
+
+Fljótastaðir fá oft skell,
+fást í Seli rjúpur,
+Búland, Hvammur, Borgarfell,
+býli snæs og Núpur.
+
+Sól á húsum sindrar blíð
+sjá má bros á lýði 
+Múli Út og Austurhlíð 
+eru sveitarprýði`,
+  },
+
+{
+    id: 'song8',
     title: 'Traustur vinur',
     artist: '',
     lyrics: ` Enginn veit fyrr en reynir á
@@ -210,48 +270,10 @@ Gott er að geta talað við
 einhvern sem að skilur þig.
 Traustur vinur getur gert
 kraftaverk.`,
-  },
-
-{
-    id: 'song6',
-    title: 'Litla flugan',
-    artist: '',
-    lyrics: `Lækur tifar létt um máða steina.
-Lítil fjóla grær við skriðufót
-Bláskel liggur brotin milli hleina.
-Í bænum hvílir íturvaxin snót.    
-
-Ef ég væri orðinn lítil fluga,
-Ég inn um gluggann þreytti flugið mitt,                           	
-og þó ég ei til annars mætti duga,
-ég  eflaust gæti kitlað nefið þitt     	 
-ég eflaust gæti kitlað nefið þitt.`,
   },  
 
   {
-    id: 'song7',
-    title: 'Vor í Vaglaskógi',
-    artist: '',
-    lyrics: `Kvöldið er okkar og vor um Vaglaskóg,
-við skulum tjalda í grænum berjamó.
-Leiddu mig vinur í lundinn frá í gær,
-lindin þar niðar og birkihríslan grær.
-
-Leikur í ljósum lokkum og angandi rósum,
-leikur í ljósum lokkum hinn vaggandi blær.
-
-Daggperlur glitra um dalinn færist ró,
-draumar þess rætast sem gistir Vaglaskóg.
-Kveldrauðu skini á krækilyngið slær.
-Kyrrðin er friðandi, mild og angurvær.
-
-Leikur í ljósum lokkum og angandi rósum,
-leikur í ljósum lokkum hinn vaggandi blær.
-`,
-  },
-
-  {
-    id: 'song8',
+    id: 'song9',
     title: 'Diggy liggi læ',
     artist: '',
     lyrics: `"Diggy liggy læla, diggy liggy ló"
@@ -288,7 +310,7 @@ af þessum heimi, diggy liggy ló.
   },
 
   {
-    id: 'song9',
+    id: 'song10',
     title: 'Farin',
     artist: '',
     lyrics: `Ertu þá farin
@@ -347,7 +369,7 @@ hvort fari ég einn í nótt`,
   },
 
   {
-    id: 'song10',
+    id: 'song11',
     title: 'Fram á nótt',
     artist: '',
     lyrics: `Börn, og aðrir minna þroskaðir menn
@@ -372,9 +394,95 @@ er það sér úr þessu vandræði við bökum
 
 Þú varst að ganga rekin í ...`,
   },
-  
+
   {
-    id: 'song11',
+    id: 'song12',
+    title: 'Stál og hnífur',
+    artist: '',
+    lyrics: `Þegar ég vaknaði um morguninn
+er þú komst inn til mín.
+Hörund þitt eins og silki
+andlitið eins og postulín.
+
+Við bryggjuna bátur vaggar hljótt,
+í nótt mun ég deyja.
+Mig dreymdi dauðinn segði komdu fljótt
+það er svo margt sem ég ætla þér að segja.
+
+Ef ég drukkna, drukkna í nótt,
+ef þeir mig finna.
+Þú getur komið og mig sótt
+þá vil ég á það minna.
+
+Stál og hnífur er merki mitt
+merki farandverkamanna.
+Þitt var mitt og mitt var þitt
+meðan ég bjó á meðal manna.`,
+  },
+
+  {
+    id: 'song13',
+    title: 'Sísí',
+    artist: '',
+    lyrics: `Vo…
+vo…
+vo…
+Í Súsúki e plemerg (skroll)
+Sísí sveimar í Súsúkí - vo - vo.
+
+Vo…
+segtanseple enedy (skroll)
+
+Vo…
+vo…
+vo…
+Ó, Sísí
+
+Vo…
+elegtanse (skroll)
+Vo…
+Eplemení (skroll)
+Vo…
+elegtúsúní súkí (skroll)
+
+Sísí saumar á síðkvöldum vo - vo.
+Vo…
+lesansúldú amon (skroll)
+
+Sísí fríkar út
+Sísí fríkar út
+Sísí fríkar út
+Sísí fríkar út
+Sísí fríkar út
+Sísí fríkar út
+Sísí fríkar út
+Sísí fríkar út.`,
+  },
+
+  {
+    id: 'song14',
+    title: 'Ríðum sem fjandinn',
+    artist: '',
+    lyrics: `Ríðum og ríðum og rekum yfir sandinn.
+Ríðum sem fjandinn.
+Sláum í gandinn,
+þannig skemmtir sér landinn.
+
+Ríðum og ríðum og rekum yfir sandinn.
+Ríðum sem fjandinn.
+Sláum í gandinn,
+þetta er stórkostleg reið.
+
+Það er fullt af bruggi í flöskunni
+og flatbrauðssneið í töskunni
+og glóð er enn í öskunni,
+við komum öskufullir heim ..
+
+Í nótt!.`,
+  },
+
+  {
+    id: 'song15',
     title: 'Með stjörnunum',
     artist: '',
     lyrics: `Hey ertu ein eftir erfiðan dag
@@ -439,47 +547,4 @@ Oh, oh oh oh oh - oh oh oh oh - Oh, ohh
 Oh, oh oh oh oh - oh oh oh oh - Oh, ohh`,
   },  
 
-  {
-    id: 'song12',
-    title: 'Blátt lítið blóm eitt er',
-    artist: '',
-    lyrics: `Blátt lítið blóm eitt er,
-ber nafnið; gleymd ei mér.
-Væri ég fleygur fugl,
-flygi ég til þín.
-
-Svo mína sálu nú
-sigraða hefur þú,
-engu ég unna má
-öðru en þér.
-
-Leggjum svo kinn við kinn,
-komdu með faðminn þinn.
-Hátt yfir hálsinn minn,
-hönd þína breið.
-Svo mína sálu nú
-sigraða hefur þú,
-engu ég unna má
-öðru en þér.`,
-  },
-
-  {
-    id: 'song13',
-    title: 'Bæjarvísur (eftir laginu Yfir kaldan eyðisand)',
-    artist: '',
-    lyrics: `Gröf og Ásar glöggt ég les,
-glaður sést þar halur,
-Hemra, Flaga, Hrífunes,
-Hlíð og Svínadalur.
-
-Fljótastaðir fá oft skell,
-fást í Seli rjúpur,
-Búland, Hvammur, Borgarfell,
-býli snæs og Núpur.
-
-Sól á húsum sindrar blíð
-sjá má bros á lýði 
-Múli Út og Austurhlíð 
-eru sveitarprýði`,
-  },
 ]
