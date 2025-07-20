@@ -463,22 +463,20 @@ Sísí fríkar út.`,
     id: 'song14',
     title: 'Ríðum sem fjandinn',
     artist: '',
-    lyrics: `Ríðum og ríðum og rekum yfir sandinn.
-Ríðum sem fjandinn.
-Sláum í gandinn,
-þannig skemmtir sér landinn.
+    lyrics: `Ríðum og ríðum og rekum yfir sandinn,
+ríðum sem fjandinn
+sláum í gandinn
+svo að skemmtir sér landinn.
 
-Ríðum og ríðum og rekum yfir sandinn.
-Ríðum sem fjandinn.
-Sláum í gandinn,
+Ríðum og ríðum og rekum yfir sandinn,
+ríðum sem fjandinn
+sláum í gandinn
 þetta er stórkostleg reið.
 
-Það er fullt af bruggi í flöskunni
-og flatbrauðssneið í töskunni
-og glóð er enn í öskunni,
-við komum öskufullir heim ..
-
-Í nótt!.`,
+Glóð er enn í öskunni
+og flatbrauðsneið í töskunni
+lögg er enn í flöskunni
+við komum öskufullir heim.`,
   },
 
   {

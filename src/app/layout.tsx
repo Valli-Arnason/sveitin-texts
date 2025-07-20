@@ -2,8 +2,8 @@ import '../styles/globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Lyrics App',
-  description: 'Lyrics viewer app',
+  title: 'Ættarmót söngtextar 2025',
+  description: 'Tunguseli',
 }
 
 export default function RootLayout({
