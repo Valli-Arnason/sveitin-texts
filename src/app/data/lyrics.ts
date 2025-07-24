@@ -349,7 +349,7 @@ hvert liggur mín leið?
 Spyrjum hvort annað
 hvort fari ég einn í nótt
 
-Í sýn ömurleg, birtist mynd af þér
+Risin dögun er, birtist mynd af þér
 
 Sé ég alla leið   ohhh…
 
